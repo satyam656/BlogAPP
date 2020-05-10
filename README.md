@@ -4,6 +4,7 @@ It is simple blog website where users can create, edit and delete blogs.
 This project is created using node.js, Express.js, MongoDB, Mongoose, Semantic-Ui.
 
 ![Home Page](https://i.imgur.com/DE3LMki.png)
+
 ![index page](https://i.imgur.com/IX1xoNP.png)
 
 ## Features
